@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "O6a71vJ6w50=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Documents\\Anh\\3192\\aspvue\\ServerApi\\ServerApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.14\\microsoft.aspnetcore.openapi.9.0.14.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
